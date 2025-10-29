@@ -1,0 +1,5 @@
+{
+  "name": "Nano Fusion Composit",
+  "description": "A web application for creating static images by 'mixing' multiple reference images and a text prompt using the Google Gemini 2.5 Flash Image model. The application aims to be intuitive, powerful, and multilingual.",
+  "requestFramePermissions": []
+}
